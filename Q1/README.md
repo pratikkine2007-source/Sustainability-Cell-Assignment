@@ -65,7 +65,7 @@ Users can hover over the indicators to reveal additional information.
 ---
 
 ## Project Structure
-
+```text
 Q1/
 ├── public/
 │   ├── logo.svg
