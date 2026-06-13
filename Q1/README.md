@@ -129,7 +129,7 @@ All final design decisions, implementation choices, integration, testing, and cu
 ### Installation
 
 ```bash
-git clone https://github.com/pratikkine2007-source/Sustainability-Cell-Assginment
+git clone https://github.com/pratikkine2007-source/Sustainability-Cell-Assignment
 cd Q1
 npm install
 npm run dev
