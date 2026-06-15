@@ -8,8 +8,15 @@ The objective was to maintain the existing sustainability-focused identity while
 
 ---
 
+## Live Demo
+
+The redesigned Hero Section is deployed and can be viewed here:
+
+**https://sustainability-cell-assignment-zzwo.vercel.app**
+
 ## Preview
-A screenshot and a demo video of the Hero section is uploaded to the repositery, in the Q1 folder itself
+
+A screenshot (`preview.png`) and demonstration video (`preview.mp4`) are available in the `Q1` folder of this repository.
 
 ---
 
