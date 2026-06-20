@@ -29,7 +29,7 @@ The redesigned Hero Section is deployed and can be viewed here:
 
 ## Preview
 
-A screenshot (`preview.png`) and demonstration video (`preview.mp4`) are available in the `Q1` folder of this repository.
+A screenshot (`preview.png`) and demonstration video (`preview.mp4`) are available in the `Q1` folder of this repository. Also screenshot for replolished hero section is also availabe in the same folder (`preview2.png`)
 
 ---
 
