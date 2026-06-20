@@ -7,6 +7,19 @@ This project is a redesign of the Hero Section of the Sustainability Cell, IIT B
 The objective was to maintain the existing sustainability-focused identity while improving visual appeal, user engagement, and interactivity through modern web technologies, animations, and responsive design principles.
 
 ---
+## Round 2 Improvements
+
+Based on the feedback received after the first round, the Hero Section has been further refined with a focus on improving user experience, interactivity, and visual polish.
+
+### Improvements Made
+
+- Added smooth entrance animations using **Framer Motion** for the hero content and navigation.
+- Made the **3D Earth interactive**, allowing users to rotate the globe by clicking and dragging while maintaining automatic rotation.
+- Improved the globe with a higher-quality Earth texture and refined lighting for a more realistic appearance.
+- Enhanced the overall visual polish by refining animation timing and transitions.
+- Updated project documentation and included a live deployment link for easier evaluation.
+
+---
 
 ## Live Demo
 
